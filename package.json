@@ -2,7 +2,7 @@
   "name": "youtac-rs-want-somemore-brae-vincent",
   "private": true,
   "description": "",
-  "sideEffects": false,
+  "sideEffects": true,
   "scripts": {
     "build": "remix build",
     "dev": "remix dev",
